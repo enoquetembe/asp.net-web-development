@@ -1,0 +1,81 @@
+C:\Users\Temb D. Enoque\source\repos\reactproject3\gallery-image\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Temb D. Enoque\source\repos\reactproject3\gallery-image\bin\Debug\net6.0\appsettings.json
+C:\Users\Temb D. Enoque\source\repos\reactproject3\gallery-image\bin\Debug\net6.0\gallery-image.exe
+C:\Users\Temb D. Enoque\source\repos\reactproject3\gallery-image\bin\Debug\net6.0\gallery-image.deps.json
+C:\Users\Temb D. Enoque\source\repos\reactproject3\gallery-image\bin\Debug\net6.0\gallery-image.runtimeconfig.json
+C:\Users\Temb D. Enoque\source\repos\reactproject3\gallery-image\bin\Debug\net6.0\gallery-image.dll
+C:\Users\Temb D. Enoque\source\repos\reactproject3\gallery-image\bin\Debug\net6.0\gallery-image.pdb
+C:\Users\Temb D. Enoque\source\repos\reactproject3\gallery-image\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Temb D. Enoque\source\repos\reactproject3\gallery-image\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Temb D. Enoque\source\repos\reactproject3\gallery-image\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Temb D. Enoque\source\repos\reactproject3\gallery-image\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Temb D. Enoque\source\repos\reactproject3\gallery-image\obj\Debug\net6.0\gallery-image.csproj.AssemblyReference.cache
+C:\Users\Temb D. Enoque\source\repos\reactproject3\gallery-image\obj\Debug\net6.0\gallery-image.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Temb D. Enoque\source\repos\reactproject3\gallery-image\obj\Debug\net6.0\gallery-image.AssemblyInfoInputs.cache
+C:\Users\Temb D. Enoque\source\repos\reactproject3\gallery-image\obj\Debug\net6.0\gallery-image.AssemblyInfo.cs
+C:\Users\Temb D. Enoque\source\repos\reactproject3\gallery-image\obj\Debug\net6.0\gallery-image.csproj.CoreCompileInputs.cache
+C:\Users\Temb D. Enoque\source\repos\reactproject3\gallery-image\obj\Debug\net6.0\gallery-image.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Temb D. Enoque\source\repos\reactproject3\gallery-image\obj\Debug\net6.0\gallery-image.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Temb D. Enoque\source\repos\reactproject3\gallery-image\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Temb D. Enoque\source\repos\reactproject3\gallery-image\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Temb D. Enoque\source\repos\reactproject3\gallery-image\obj\Debug\net6.0\scopedcss\bundle\gallery-image.styles.css
+C:\Users\Temb D. Enoque\source\repos\reactproject3\gallery-image\obj\Debug\net6.0\gallery-image.csproj.CopyComplete
+C:\Users\Temb D. Enoque\source\repos\reactproject3\gallery-image\obj\Debug\net6.0\gallery-image.dll
+C:\Users\Temb D. Enoque\source\repos\reactproject3\gallery-image\obj\Debug\net6.0\refint\gallery-image.dll
+C:\Users\Temb D. Enoque\source\repos\reactproject3\gallery-image\obj\Debug\net6.0\gallery-image.pdb
+C:\Users\Temb D. Enoque\source\repos\reactproject3\gallery-image\obj\Debug\net6.0\gallery-image.genruntimeconfig.cache
+C:\Users\Temb D. Enoque\source\repos\reactproject3\gallery-image\obj\Debug\net6.0\ref\gallery-image.dll
+C:\Users\Temb D. Enoque\Documents\Studying\Asp.net core web development\reactproject3\gallery-image\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Temb D. Enoque\Documents\Studying\Asp.net core web development\reactproject3\gallery-image\bin\Debug\net6.0\appsettings.json
+C:\Users\Temb D. Enoque\Documents\Studying\Asp.net core web development\reactproject3\gallery-image\bin\Debug\net6.0\gallery-image.exe
+C:\Users\Temb D. Enoque\Documents\Studying\Asp.net core web development\reactproject3\gallery-image\bin\Debug\net6.0\gallery-image.deps.json
+C:\Users\Temb D. Enoque\Documents\Studying\Asp.net core web development\reactproject3\gallery-image\bin\Debug\net6.0\gallery-image.runtimeconfig.json
+C:\Users\Temb D. Enoque\Documents\Studying\Asp.net core web development\reactproject3\gallery-image\bin\Debug\net6.0\gallery-image.dll
+C:\Users\Temb D. Enoque\Documents\Studying\Asp.net core web development\reactproject3\gallery-image\bin\Debug\net6.0\gallery-image.pdb
+C:\Users\Temb D. Enoque\Documents\Studying\Asp.net core web development\reactproject3\gallery-image\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Temb D. Enoque\Documents\Studying\Asp.net core web development\reactproject3\gallery-image\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Temb D. Enoque\Documents\Studying\Asp.net core web development\reactproject3\gallery-image\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Temb D. Enoque\Documents\Studying\Asp.net core web development\reactproject3\gallery-image\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Temb D. Enoque\Documents\Studying\Asp.net core web development\reactproject3\gallery-image\obj\Debug\net6.0\gallery-image.csproj.AssemblyReference.cache
+C:\Users\Temb D. Enoque\Documents\Studying\Asp.net core web development\reactproject3\gallery-image\obj\Debug\net6.0\gallery-image.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Temb D. Enoque\Documents\Studying\Asp.net core web development\reactproject3\gallery-image\obj\Debug\net6.0\gallery-image.AssemblyInfoInputs.cache
+C:\Users\Temb D. Enoque\Documents\Studying\Asp.net core web development\reactproject3\gallery-image\obj\Debug\net6.0\gallery-image.AssemblyInfo.cs
+C:\Users\Temb D. Enoque\Documents\Studying\Asp.net core web development\reactproject3\gallery-image\obj\Debug\net6.0\gallery-image.csproj.CoreCompileInputs.cache
+C:\Users\Temb D. Enoque\Documents\Studying\Asp.net core web development\reactproject3\gallery-image\obj\Debug\net6.0\gallery-image.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Temb D. Enoque\Documents\Studying\Asp.net core web development\reactproject3\gallery-image\obj\Debug\net6.0\gallery-image.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Temb D. Enoque\Documents\Studying\Asp.net core web development\reactproject3\gallery-image\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Temb D. Enoque\Documents\Studying\Asp.net core web development\reactproject3\gallery-image\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Temb D. Enoque\Documents\Studying\Asp.net core web development\reactproject3\gallery-image\obj\Debug\net6.0\scopedcss\bundle\gallery-image.styles.css
+C:\Users\Temb D. Enoque\Documents\Studying\Asp.net core web development\reactproject3\gallery-image\obj\Debug\net6.0\gallery-image.csproj.CopyComplete
+C:\Users\Temb D. Enoque\Documents\Studying\Asp.net core web development\reactproject3\gallery-image\obj\Debug\net6.0\gallery-image.dll
+C:\Users\Temb D. Enoque\Documents\Studying\Asp.net core web development\reactproject3\gallery-image\obj\Debug\net6.0\refint\gallery-image.dll
+C:\Users\Temb D. Enoque\Documents\Studying\Asp.net core web development\reactproject3\gallery-image\obj\Debug\net6.0\gallery-image.pdb
+C:\Users\Temb D. Enoque\Documents\Studying\Asp.net core web development\reactproject3\gallery-image\obj\Debug\net6.0\gallery-image.genruntimeconfig.cache
+C:\Users\Temb D. Enoque\Documents\Studying\Asp.net core web development\reactproject3\gallery-image\obj\Debug\net6.0\ref\gallery-image.dll
+C:\Users\Temb D. Enoque\Documents\Studying\Asp.net core web development\mini image gallery\gallery-image\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Temb D. Enoque\Documents\Studying\Asp.net core web development\mini image gallery\gallery-image\bin\Debug\net6.0\appsettings.json
+C:\Users\Temb D. Enoque\Documents\Studying\Asp.net core web development\mini image gallery\gallery-image\bin\Debug\net6.0\gallery-image.exe
+C:\Users\Temb D. Enoque\Documents\Studying\Asp.net core web development\mini image gallery\gallery-image\bin\Debug\net6.0\gallery-image.deps.json
+C:\Users\Temb D. Enoque\Documents\Studying\Asp.net core web development\mini image gallery\gallery-image\bin\Debug\net6.0\gallery-image.runtimeconfig.json
+C:\Users\Temb D. Enoque\Documents\Studying\Asp.net core web development\mini image gallery\gallery-image\bin\Debug\net6.0\gallery-image.dll
+C:\Users\Temb D. Enoque\Documents\Studying\Asp.net core web development\mini image gallery\gallery-image\bin\Debug\net6.0\gallery-image.pdb
+C:\Users\Temb D. Enoque\Documents\Studying\Asp.net core web development\mini image gallery\gallery-image\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Temb D. Enoque\Documents\Studying\Asp.net core web development\mini image gallery\gallery-image\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Temb D. Enoque\Documents\Studying\Asp.net core web development\mini image gallery\gallery-image\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Temb D. Enoque\Documents\Studying\Asp.net core web development\mini image gallery\gallery-image\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Temb D. Enoque\Documents\Studying\Asp.net core web development\mini image gallery\gallery-image\obj\Debug\net6.0\gallery-image.csproj.AssemblyReference.cache
+C:\Users\Temb D. Enoque\Documents\Studying\Asp.net core web development\mini image gallery\gallery-image\obj\Debug\net6.0\gallery-image.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Temb D. Enoque\Documents\Studying\Asp.net core web development\mini image gallery\gallery-image\obj\Debug\net6.0\gallery-image.AssemblyInfoInputs.cache
+C:\Users\Temb D. Enoque\Documents\Studying\Asp.net core web development\mini image gallery\gallery-image\obj\Debug\net6.0\gallery-image.AssemblyInfo.cs
+C:\Users\Temb D. Enoque\Documents\Studying\Asp.net core web development\mini image gallery\gallery-image\obj\Debug\net6.0\gallery-image.csproj.CoreCompileInputs.cache
+C:\Users\Temb D. Enoque\Documents\Studying\Asp.net core web development\mini image gallery\gallery-image\obj\Debug\net6.0\gallery-image.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Temb D. Enoque\Documents\Studying\Asp.net core web development\mini image gallery\gallery-image\obj\Debug\net6.0\gallery-image.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Temb D. Enoque\Documents\Studying\Asp.net core web development\mini image gallery\gallery-image\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Temb D. Enoque\Documents\Studying\Asp.net core web development\mini image gallery\gallery-image\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Temb D. Enoque\Documents\Studying\Asp.net core web development\mini image gallery\gallery-image\obj\Debug\net6.0\scopedcss\bundle\gallery-image.styles.css
+C:\Users\Temb D. Enoque\Documents\Studying\Asp.net core web development\mini image gallery\gallery-image\obj\Debug\net6.0\gallery-image.csproj.CopyComplete
+C:\Users\Temb D. Enoque\Documents\Studying\Asp.net core web development\mini image gallery\gallery-image\obj\Debug\net6.0\gallery-image.dll
+C:\Users\Temb D. Enoque\Documents\Studying\Asp.net core web development\mini image gallery\gallery-image\obj\Debug\net6.0\refint\gallery-image.dll
+C:\Users\Temb D. Enoque\Documents\Studying\Asp.net core web development\mini image gallery\gallery-image\obj\Debug\net6.0\gallery-image.pdb
+C:\Users\Temb D. Enoque\Documents\Studying\Asp.net core web development\mini image gallery\gallery-image\obj\Debug\net6.0\gallery-image.genruntimeconfig.cache
+C:\Users\Temb D. Enoque\Documents\Studying\Asp.net core web development\mini image gallery\gallery-image\obj\Debug\net6.0\ref\gallery-image.dll
